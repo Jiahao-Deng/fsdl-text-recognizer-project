@@ -9,6 +9,7 @@ def lenet(input_shape: Tuple[int, ...], output_shape: Tuple[int, ...]) -> Model:
     num_classes = output_shape[0]
 
     ##### Your code below (Lab 2)
+    
 
     ##### Your code above (Lab 2)
 
